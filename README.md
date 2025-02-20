@@ -1,6 +1,6 @@
 # **Greenhouse Gas Emissions Analysis**
 
-![Emissions by Country](../figures/extract.jpg)
+![Emissions by Country](figures/extract.jpg)
 
 ## **Overview**  
 This project analyzes greenhouse gas emissions data to uncover trends and forecast future emissions. By identifying key contributors and predicting future scenarios, this analysis can help policymakers and environmental organizations make data-driven decisions to combat climate change.  
